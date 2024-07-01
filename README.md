@@ -1,0 +1,1 @@
+# osticket-oauth-redirect-customisations
